@@ -1,5 +1,4 @@
-# EchoVLMLandmarks
-**Spatio-Temporal Landmark Detection via Selective Fine-Tuning of Echocardiography Foundation Models (NLDL 2026)** 
+# Spatio-Temporal Landmark Detection via Selective Fine-Tuning of Echocardiography Foundation Models (NLDL 2026)
 
 This repository accompanies the paper:
 
